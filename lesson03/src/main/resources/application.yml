@@ -1,8 +1,0 @@
-server:
-  port: 443
-  ssl:
-     key-store: ivan.keystore
-     key-store-password: ivanivan
-     key-store-type: JKS
-     key-alias: ivan
-     
